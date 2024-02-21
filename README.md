@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Vicky Kumar</h1>
+<h1 align="center">Hi 👋, I am ankit </h1>
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Digital+Marketing+Expert;Quick+learner;Problem+Solver;&color=teal&center=true" />
 </div>
@@ -19,10 +19,6 @@ With a solid foundation in web development technologies such as the MERN stack, 
 💬 Ask me about Mongodb, express, React, Node, Javascript, HTML, CSS, DSA, Digital Marketing<br>
 
 📫 How to reach me: hajipurtech@gmail.com <br>
-
-⚡ Want to Know More About Experience: [Check out My Resume](https://drive.google.com/file/d/19nt2wOZrPOHpv_2yf1ZL4WJj_HBJ0lmQ/view?usp=share_link)<br>
-
-Want to know more about me? [Check out My Portfolio](https://vicky-masai.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <ul>
